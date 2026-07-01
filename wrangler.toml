@@ -1,0 +1,6 @@
+name = "image-work"
+main = "index.js"
+
+[assets]
+directory = "assets"
+binding = "ASSETS"
